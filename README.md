@@ -1,7 +1,7 @@
 Ported from https://github.com/sindresorhus/escape-string-regexp
 
 # escape-string-regexp
-[![Build Status](https://travis-ci.org/Sab94/escape-string-regexp.svg?branch=master)](https://travis-ci.org/Sab94/escape-string-regexp)
+[![Build Status](https://travis-ci.org/Sab94/escape_string_regexp.svg?branch=master)](https://travis-ci.org/Sab94/escape_string_regexp)
 
 Escape RegExp special characters
 
